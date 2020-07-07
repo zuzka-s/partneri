@@ -1,3 +1,18 @@
 $links: #CC0000;
 $background-color: #550202;
 $text-color: #3C3C3C;
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: $text-color;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold;
+}
